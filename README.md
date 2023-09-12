@@ -1,2 +1,2 @@
 # InternTask2
-My first application using PySide 2
+My first application using PySide 2. This will also be my first time using Github, so expect a lot of random pull requests for tests and such. Hopefully this goes smoothly and the version history is not a giant spider web.
